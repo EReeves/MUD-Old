@@ -1,0 +1,35 @@
+Start:   You awaken to find yourself seated in one of the secluded booths of a Diner, wallet, watch, and keys still with you. A quick
+	 survey of the Diner shows there to be; two young men surrounding a jukebox. A teenage girl in the booth adjacent to
+	 you who seems to have fallen asleep, and the bartender who is beckoning you to him.
+
+Inspect: A plate of half eaten cinnamon toast and bananas with cream sits on the table in front of you. Your seat is sticky
+Area	 and smells of soda. You are seated next to a frosted but not opaque window. A teenage girl snores aggressively to
+	 your left. Two young men click their fingers slightly out of time to a song playing on the juke box. The bartender
+	 seems to have something important to tell you.
+
+Inspect: A plate of half eaten cinnamon toast and bananas with cream sits on the table in front of you, looks like it's been there a few days.
+Toast/	
+Bananas/
+Cinnamon/
+cream/
+
+Inspect: It's a blue Table. Probably with gum stuck to its underside.
+Table
+
+Inspect: The red, plush seat feels sticky to the touch but thankfully it smells like soda so at least you haven't soiled yourself.
+Seat/Chair
+
+Inspect: You look out the window and see the faint outline of a sprawling city through the frosted glass.
+Window
+
+Inspect: There's no waking her.
+Teenage/
+Girl
+
+Inspect: The Jukebox is playing your jam!
+Men/Juk-
+ebox
+
+Inspect: The Bartender notices he has your attention and continues to beckon you towards him.
+Bartend-
+er
